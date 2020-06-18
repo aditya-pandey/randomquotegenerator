@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aditya-pandey/randomquotegenerator/static/css/main.85fd2f04.chunk.css",
-    "main.js": "/aditya-pandey/randomquotegenerator/static/js/main.785c3a6d.chunk.js",
-    "main.js.map": "/aditya-pandey/randomquotegenerator/static/js/main.785c3a6d.chunk.js.map",
-    "runtime-main.js": "/aditya-pandey/randomquotegenerator/static/js/runtime-main.231f9a65.js",
-    "runtime-main.js.map": "/aditya-pandey/randomquotegenerator/static/js/runtime-main.231f9a65.js.map",
-    "static/js/2.9e8a16be.chunk.js": "/aditya-pandey/randomquotegenerator/static/js/2.9e8a16be.chunk.js",
-    "static/js/2.9e8a16be.chunk.js.map": "/aditya-pandey/randomquotegenerator/static/js/2.9e8a16be.chunk.js.map",
-    "index.html": "/aditya-pandey/randomquotegenerator/index.html",
-    "precache-manifest.9fd4c09c7d24daba50a2e1fd71c7d4ee.js": "/aditya-pandey/randomquotegenerator/precache-manifest.9fd4c09c7d24daba50a2e1fd71c7d4ee.js",
-    "service-worker.js": "/aditya-pandey/randomquotegenerator/service-worker.js",
-    "static/css/main.85fd2f04.chunk.css.map": "/aditya-pandey/randomquotegenerator/static/css/main.85fd2f04.chunk.css.map",
-    "static/js/2.9e8a16be.chunk.js.LICENSE.txt": "/aditya-pandey/randomquotegenerator/static/js/2.9e8a16be.chunk.js.LICENSE.txt"
+    "main.css": "/randomquotegenerator/static/css/main.85fd2f04.chunk.css",
+    "main.js": "/randomquotegenerator/static/js/main.cf588ff1.chunk.js",
+    "main.js.map": "/randomquotegenerator/static/js/main.cf588ff1.chunk.js.map",
+    "runtime-main.js": "/randomquotegenerator/static/js/runtime-main.9efb9232.js",
+    "runtime-main.js.map": "/randomquotegenerator/static/js/runtime-main.9efb9232.js.map",
+    "static/js/2.9e8a16be.chunk.js": "/randomquotegenerator/static/js/2.9e8a16be.chunk.js",
+    "static/js/2.9e8a16be.chunk.js.map": "/randomquotegenerator/static/js/2.9e8a16be.chunk.js.map",
+    "index.html": "/randomquotegenerator/index.html",
+    "precache-manifest.866c99446485cbe38372e239a47c9276.js": "/randomquotegenerator/precache-manifest.866c99446485cbe38372e239a47c9276.js",
+    "service-worker.js": "/randomquotegenerator/service-worker.js",
+    "static/css/main.85fd2f04.chunk.css.map": "/randomquotegenerator/static/css/main.85fd2f04.chunk.css.map",
+    "static/js/2.9e8a16be.chunk.js.LICENSE.txt": "/randomquotegenerator/static/js/2.9e8a16be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.231f9a65.js",
+    "static/js/runtime-main.9efb9232.js",
     "static/js/2.9e8a16be.chunk.js",
     "static/css/main.85fd2f04.chunk.css",
-    "static/js/main.785c3a6d.chunk.js"
+    "static/js/main.cf588ff1.chunk.js"
   ]
 }
